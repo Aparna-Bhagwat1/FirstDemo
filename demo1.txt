@@ -1,1 +1,2 @@
 Hello all.This is my first file.
+Line 2
